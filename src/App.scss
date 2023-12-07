@@ -1,0 +1,5 @@
+$color1 : pink, grey;
+
+body {
+    color: nth($color1,2);
+}
